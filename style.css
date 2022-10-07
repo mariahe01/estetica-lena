@@ -1,1 +1,19 @@
-
+body{
+    background-color:rgb(238, 197, 204) ;
+    }
+    
+    Estilizar o título principal do seu site
+     h1{
+    color: rgb(5, 5, 5);
+    font-family:Arial; ;
+    background:rgb(58, 58, 156) ;
+    }
+    
+    Estilizar os parágrafos
+    p{
+    color:white ;
+    font-family:  Times, serif;
+    font-size: ;
+    background: ;
+    }
+    
